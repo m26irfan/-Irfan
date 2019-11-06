@@ -598,6 +598,8 @@ a.active {
 .portfolio_item img {
     -webkit-filter: contrast(100%);
     filter: contrast(100%);
+    border-radius: 0px;
+    border: 1px solid #746c75;
 }
 
 .portfolio-padding {
